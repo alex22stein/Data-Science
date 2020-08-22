@@ -4,7 +4,7 @@ O primeiro modelo foi basicamento o que já existia nos arquivos do desafio. Ele
 
 O segundo modelo foi já mais elaborado. Ele incluiu uma variável, a idade. Para isso foi utilizado Python e as bibliotecas pandas e sklearn. Apesar da maior complexidade, ele alcançou uma pontuação abaixo da do modelo 1 mais simples.
 
-O terceiro modelo se assemelha ao modelo 1, porém ele usa uma ferramenta do sklearn de criar teste e validação apenas com os dados do teste, sem utilizar os dados de teste dados pela comunidade, o que pode acontecer.
+O terceiro modelo se assemelha ao modelo 2, porém ele usa uma ferramenta do sklearn de criar teste e validação apenas com os dados do teste, sem utilizar os dados de teste dados pela comunidade, o que pode acontecer.
 
 O quarto modelo é uma aprimoração do modelo 3. O que ele faz basicamente é selecionar os dados para teste e validação mais vezes aleatoriamente, dessa forma vão gerar vários resultados e com a média deles se alcança um resultado mais preciso.
 
