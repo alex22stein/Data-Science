@@ -9,3 +9,7 @@ O terceiro modelo se assemelha ao modelo 2, porém ele usa uma ferramenta do skl
 O quarto modelo é uma aprimoração do modelo 3. O que ele faz basicamente é selecionar os dados para teste e validação mais vezes aleatoriamente, dessa forma vão gerar vários resultados e com a média deles se alcança um resultado mais preciso.
 
 O quinto modelo nós fizemos o uso do RepeatedKFold que é como o KFold, porém já imbutido o loop de repetição. Além disso conseguimos colocar mais variáveis para ajudar na modelagem, porém o resultado continua mais baixo que só avaliar o gênero.
+
+O sexto modelo conseguimos acrescentar mais variáveis analisando através dos dados de validação aquelas que poderiam influenciar no resultado. Porém, não se obteve um aumento da nota
+
+O sétimo modelo foi trocado o modelo de machine learning RandomForrest por LogisticRegression que é mais simples. Com isso percebemos um aumento do resultado tanto na validação quanto na pontuação no Kaggle. Porém, ainda falta para passar a previsão que mulheres foram salvas e homens não.
