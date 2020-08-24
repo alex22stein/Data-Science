@@ -13,3 +13,5 @@ O quinto modelo nós fizemos o uso do RepeatedKFold que é como o KFold, porém 
 O sexto modelo conseguimos acrescentar mais variáveis analisando através dos dados de validação aquelas que poderiam influenciar no resultado. Porém, não se obteve um aumento da nota
 
 O sétimo modelo foi trocado o modelo de machine learning RandomForrest por LogisticRegression que é mais simples. Com isso percebemos um aumento do resultado tanto na validação quanto na pontuação no Kaggle. Porém, ainda falta para passar a previsão que mulheres foram salvas e homens não.
+
+Esse estudo e projeto foi realizado seguindo o tutorial de Machine Learning do Mario Filho no youtube - https://www.youtube.com/watch?v=1UVizW6eFrY&list=PLwnip85KhroW8Q1JSNbgl06iNPeC0SDkx
